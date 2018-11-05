@@ -1,0 +1,1 @@
+"use strict";var index=20,ind=30;
