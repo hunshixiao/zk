@@ -12,3 +12,23 @@ html, body {
   width: 100%;
   height: 100%;
   background: skyblue; }
+
+.btn {
+  background: #ccc;
+  outline: 0;
+  border: 0; }
+
+.btn1 {
+  background: blue;
+  outline: 0;
+  border: 0; }
+
+.btn2 {
+  background: green;
+  outline: 0;
+  border: 0; }
+
+.btn3 {
+  background: lightsalmon;
+  outline: 0;
+  border: 0; }
